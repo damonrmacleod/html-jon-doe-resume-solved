@@ -1,3 +1,4 @@
+console.log('This message will appear if connected.')
 const fancyBody = document.querySelector('.fancy-body');
 
 if (fancyBody) {
